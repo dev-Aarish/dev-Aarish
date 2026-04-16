@@ -10,6 +10,7 @@
 
 ## 🧠 My Focus Areas
 - Web Development
+- Blockchain and Web3
 
 
 ## 📊 GitHub Stats & Trophies
