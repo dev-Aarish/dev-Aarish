@@ -27,7 +27,6 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-Aarish&theme=gruvbox&radius=10" alt="dev-Aarish's Activity Graph" />
 </p>
 
-
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
@@ -75,6 +74,9 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dev-Aarish&langs_count=8&layout=compact&theme=gruvbox&border_radius=10" alt="Top Languages" />
   </a>
 </p>
+
+## My Badges
+[![An image of @devaarish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devaarish)](https://holopin.io/@devaarish)
 
 ## 🔗 Connect with Me
 <p align="center">
