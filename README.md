@@ -8,12 +8,12 @@
 
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
 
-## 🧠 My Focus Areas
+## My Focus Areas
 - Web Development
 - Blockchain and Web3.0
 
 
-## 📊 GitHub Stats & Trophies
+## GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/dev-Aarish">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-Aarish&cache_seconds=7200&layout=compact&theme=gruvbox&border_radius=10" alt="dev-Aarish's GitHub Stats" />
@@ -27,7 +27,7 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-Aarish&theme=gruvbox&radius=10" alt="dev-Aarish's Activity Graph" />
 </p>
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -78,7 +78,7 @@
 ## My Badges
 [![An image of @devaarish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devaarish)](https://holopin.io/@devaarish)
 
-## 🔗 Connect with Me
+## Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/aritro-bag-7a076b356/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Aritro Bag's LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:aritrobag362@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Aritro Bag's Email"/></a>
