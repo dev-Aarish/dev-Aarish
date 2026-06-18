@@ -35,25 +35,28 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-Aarish&bg_color=202124&color=fcfcfa&line=c4e3ff&point=ff8070&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Languages & Tools
+## Languages & Tools I've Used
 
 <p align="center">
       <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=java,py,javascript,cpp,c,html,css,react,tailwind,nodejs,express,supabase,mongodb,git,github" />
+            <img src="https://skillicons.dev/icons?i=java,py,javascript,cpp,c,html,css,react,tailwind,nodejs,express,supabase,mongodb,solidity" />
       </a>
 </p>
 
 <p align="center">
       <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=figma,postman,vite,vscode" />
+            <img src="https://skillicons.dev/icons?i=figma,git,github,postman,vite,vscode,vercel,netlify" />
       </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/dev-Aarish">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dev-Aarish&langs_count=8&layout=compact&theme=gruvbox&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+
+<!--<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Aarish&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333"
+    alt="Top Languages"
+  />
+</p>-->
 
 ## My Badges
 [![An image of @devaarish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devaarish)](https://holopin.io/@devaarish)
