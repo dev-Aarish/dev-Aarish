@@ -54,13 +54,13 @@ var Aarish={
 
 <p align="center">
       <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=java,py,javascript,cpp,c,html,css,react,tailwind,nodejs,express,supabase,mongodb,solidity" />
+            <img src="https://skillicons.dev/icons?i=c,py,javascript,typescript,cpp,java,html,css,react,nodejs,express,supabase,mongodb,solidity" />
       </a>
 </p>
 
 <p align="center">
       <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=figma,git,github,postman,vite,vscode,vercel,netlify" />
+            <img src="https://skillicons.dev/icons?i=tailwind,figma,git,github,postman,vite,vscode,vercel,netlify" />
       </a>
 </p>
 
