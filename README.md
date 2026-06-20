@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Aritro%20Bag&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Student&descSize=18&descAlignY=55&textBg=false&section=header" width="100%"/>
+<img width="2700" height="550" alt="header" src="https://github.com/user-attachments/assets/8503466a-4a1e-42d0-8c4f-5b99b2fb78e2" />
 
 <!--
 <p align="center">
