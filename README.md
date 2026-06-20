@@ -15,7 +15,7 @@
         <pre><code>
 //Hello
 var Aarish={
-    role:"junior dev",
+    role:["student","junior dev"],
     hobby:["reading", "painting", "watching movies"],
     skill level:"noob"
 }
