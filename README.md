@@ -31,9 +31,9 @@ var Aarish={
 ## GitHub Stats & Trophies
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=dev-Aarish&theme=dark&mode=weekly" alt="GitHub Streak" />
+  <img height="160em" src="https://streak-stats.demolab.com?user=dev-Aarish&theme=dark&mode=weekly" alt="GitHub Streak" />
   <a href="https://github.com/dev-Aarish">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-Aarish&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="dev-Aarish's GitHub Stats" />
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-Aarish&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="dev-Aarish's GitHub Stats" />
   </a>
 </p>
 
