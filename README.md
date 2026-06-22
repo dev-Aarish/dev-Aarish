@@ -28,7 +28,7 @@ var Aarish={
   </tr>
 </table>
 
-## GitHub Stats & Trophies
+## GitHub Stats
 
 <p align="center">
   <img height="162em" src="https://streak-stats.demolab.com?user=dev-Aarish&theme=dark&mode=weekly" alt="GitHub Streak" />
@@ -75,6 +75,14 @@ var Aarish={
 
 <!--## My Badges
 [![An image of @devaarish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devaarish)](https://holopin.io/@devaarish)-->
+
+## My open source contributions
+
+These are the some amazing open source projects I have contributed to in 2026 under SSoC'26!
+
+<a href="https://github.com/Eshajha19/Algo-Infinity-Verse">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eshajha19&repo=Algo-Infinity-Verse&show_icons=true&line_height=27&theme=dark" alt="Algo-Infinity-Verse" />
+</a>
 
 ## Connect with Me
 <p align="center">
