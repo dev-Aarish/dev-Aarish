@@ -84,9 +84,19 @@ These are the some amazing open source projects I have contributed to in 2026 un
   <a href="https://github.com/Eshajha19/Algo-Infinity-Verse">
     <img valign="top" height="140" src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=Eshajha19&repo=Algo-Infinity-Verse&show_icons=true&line_height=27&theme=dark" alt="Algo-Infinity-Verse" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/imanchalsingh/collegems">
     <img valign="top" height="125" src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=imanchalsingh&repo=collegems&show_icons=true&line_height=27&theme=dark" alt="collegems" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nandinigoyaldev/Open-Source-Contribution-Atelier">
+    <img valign="top" height="140" src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=nandinigoyaldev&repo=Open-Source-Contribution-Atelier&show_icons=true&line_height=27&theme=dark" alt="Open-Source-Contribution-Atelier" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/daviddprtma/AgroDex">
+    <img valign="top" height="140" src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=daviddprtma&repo=Agrodex&show_icons=true&line_height=27&theme=dark" alt="Open-Source-Contribution-Atelier" />
   </a>
 </p>
 
