@@ -100,6 +100,7 @@ These are the some amazing open source projects I have contributed to in 2026 un
   </a>
 </p>
 
+
 ## Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/aritro-bag-7a076b356/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Aritro Bag's LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
