@@ -59,6 +59,7 @@ var Aarish={
       </a>
 </p>
 
+
 <p align="center">
       <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=tailwind,figma,git,github,postman,vite,vscode,vercel,netlify" />
@@ -105,9 +106,11 @@ These are the some amazing open source projects I have contributed to in 2026 un
 ## Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/aritro-bag-7a076b356/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Aritro Bag's LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="mailto:aritrobag362@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Aritro Bag's Email"/></a>
 </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
