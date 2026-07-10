@@ -102,6 +102,10 @@ These are the some amazing open source projects I have contributed to in 2026 un
   </a>
 </p>
 
+## Some more stats(I love Stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Connect with Me
 <p align="center">
