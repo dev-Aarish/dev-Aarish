@@ -105,6 +105,74 @@ These are the some amazing open source projects I have contributed to in 2026 un
 ## Some more stats(I love Stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.84%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 2.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 549 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                143 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+🌆 Daytime                695 commits         ███████████░░░░░░░░░░░░░░   45.34 % 
+🌃 Evening                471 commits         ████████░░░░░░░░░░░░░░░░░   30.72 % 
+🌙 Night                  224 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   277 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Tuesday                  332 commits         █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
+Wednesday                113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Thursday                 310 commits         █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Friday                   167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Saturday                 195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Sunday                   139 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               6 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+HTML                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Solidity                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+```
+
+
+
+
+ Last Updated on 10/07/2026 18:55:38 UTC
 <!--END_SECTION:waka-->
 
 ## Connect with Me
