@@ -20,3 +20,4 @@ jobs:
           SHOW_OS: "False"
           SHOW_COMMIT: "True"
           SHOW_PROFILE_VIEWS: "False"
+          SHOW_SHORT_INFO: "False"
