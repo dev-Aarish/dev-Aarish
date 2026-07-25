@@ -105,28 +105,7 @@ These are the some amazing open source projects I have contributed to in 2026 un
 ## Some more stats(I love Stats)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.43%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                184 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-🌆 Daytime                1127 commits        ████████████░░░░░░░░░░░░░   46.84 % 
-🌃 Evening                740 commits         ████████░░░░░░░░░░░░░░░░░   30.76 % 
-🌙 Night                  355 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   359 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Tuesday                  556 commits         ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
-Wednesday                217 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-Thursday                 505 commits         █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-Friday                   274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Saturday                 321 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Sunday                   174 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-```
-
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.65%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in TypeScript** 
 
