@@ -105,57 +105,53 @@ These are the some amazing open source projects I have contributed to in 2026 un
 ## Some more stats(I love Stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-118%20hrs%2028%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2036%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.06%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.16%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                259 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-🌆 Daytime                1270 commits        ███████████░░░░░░░░░░░░░░   45.36 % 
-🌃 Evening                883 commits         ████████░░░░░░░░░░░░░░░░░   31.54 % 
-🌙 Night                  388 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+🌞 Morning                259 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+🌆 Daytime                1290 commits        ███████████░░░░░░░░░░░░░░   45.39 % 
+🌃 Evening                900 commits         ████████░░░░░░░░░░░░░░░░░   31.67 % 
+🌙 Night                  393 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   404 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Tuesday                  624 commits         ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
-Wednesday                267 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Thursday                 573 commits         █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-Friday                   343 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Saturday                 380 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Sunday                   209 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Monday                   407 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Tuesday                  647 commits         ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+Wednesday                272 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Thursday                 577 commits         █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+Friday                   345 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Saturday                 384 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Sunday                   210 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 3 mins (99.38%)
+⏱ AI Coding Time: 21 hrs 53 mins (99.38%)
 
-✍️ 11,475 lines written by AI, 2 lines written by hand (99.98% AI-written)
+✍️ 13,063 lines written by AI, 2 lines written by hand (99.98% AI-written)
 
-🔤 6,115,620 Input Tokens, 632,933 Output Tokens
+🔤 5,952,346 Input Tokens, 634,076 Output Tokens
 
-💵 $28.58 Estimated AI Cost This Week
+💵 $28.10 Estimated AI Cost This Week
 
-🧠 131 AI Sessions, 366 AI Prompts
+🧠 124 AI Sessions, 353 AI Prompts
 
-Deepseek                 9,552 lines         ████████████████████░░░░░   78.31 % 
-Mimo                     2,297 lines         █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-Nemotron                 192 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Opencode-Cli             153 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Deepseek                 11,136 lines        ████████████████████░░░░░   80.80 % 
+Mimo                     2,297 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Nemotron                 192 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Opencode-Cli             153 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 Opus                     4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.98% of written lines came from AI
-📝 Concise Prompter — average 460 characters per prompt
+📝 Concise Prompter — average 458 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.2% of changed lines were hand-edited
+🚀 High AI Trust — 0.18% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
