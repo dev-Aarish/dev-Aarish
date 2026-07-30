@@ -105,53 +105,57 @@ These are the some amazing open source projects I have contributed to in 2026 un
 ## Some more stats(I love Stats)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.16%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%204%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-122%20hrs%2023%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.18%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                259 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-🌆 Daytime                1290 commits        ███████████░░░░░░░░░░░░░░   45.39 % 
-🌃 Evening                900 commits         ████████░░░░░░░░░░░░░░░░░   31.67 % 
-🌙 Night                  393 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+🌞 Morning                261 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+🌆 Daytime                1296 commits        ███████████░░░░░░░░░░░░░░   45.44 % 
+🌃 Evening                902 commits         ████████░░░░░░░░░░░░░░░░░   31.63 % 
+🌙 Night                  393 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   407 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Tuesday                  647 commits         ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
-Wednesday                272 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Thursday                 577 commits         █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
-Friday                   345 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Saturday                 384 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Sunday                   210 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+Monday                   407 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Tuesday                  647 commits         ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+Wednesday                282 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Thursday                 577 commits         █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Friday                   345 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Saturday                 384 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Sunday                   210 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 53 mins (99.38%)
+⏱ AI Coding Time: 17 hrs 30 mins (99.67%)
 
-✍️ 13,063 lines written by AI, 2 lines written by hand (99.98% AI-written)
+✍️ 14,987 lines written by AI, 2 lines written by hand (99.99% AI-written)
 
-🔤 5,952,346 Input Tokens, 634,076 Output Tokens
+🔤 5,266,002 Input Tokens, 528,376 Output Tokens
 
-💵 $28.10 Estimated AI Cost This Week
+💵 $24.46 Estimated AI Cost This Week
 
-🧠 124 AI Sessions, 353 AI Prompts
+🧠 103 AI Sessions, 277 AI Prompts
 
-Deepseek                 11,136 lines        ████████████████████░░░░░   80.80 % 
-Mimo                     2,297 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Nemotron                 192 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-Opencode-Cli             153 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Deepseek                 12,965 lines        █████████████████████░░░░   84.36 % 
+Mimo                     2,207 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Nemotron                 192 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 Opus                     4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📝 Concise Prompter — average 458 characters per prompt
+🤖 AI-Driven — 99.99% of written lines came from AI
+📄 Detailed Prompter — average 507 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.18% of changed lines were hand-edited
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
