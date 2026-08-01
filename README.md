@@ -107,64 +107,63 @@ These are the some amazing open source projects I have contributed to in 2026 un
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-123%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-124%20hrs%2011%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.61%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.62%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                269 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-🌆 Daytime                1408 commits        ███████████░░░░░░░░░░░░░░   45.79 % 
-🌃 Evening                973 commits         ████████░░░░░░░░░░░░░░░░░   31.64 % 
-🌙 Night                  425 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+🌞 Morning                269 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+🌆 Daytime                1408 commits        ███████████░░░░░░░░░░░░░░   45.61 % 
+🌃 Evening                985 commits         ████████░░░░░░░░░░░░░░░░░   31.91 % 
+🌙 Night                  425 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   427 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Tuesday                  707 commits         ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
-Wednesday                302 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Thursday                 644 commits         █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-Friday                   369 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Saturday                 412 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Sunday                   214 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Monday                   427 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Tuesday                  707 commits         ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+Wednesday                302 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Thursday                 644 commits         █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+Friday                   381 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Saturday                 412 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Sunday                   214 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 39 mins (99.89%)
+⏱ AI Coding Time: 15 hrs 25 mins (99.89%)
 
-✍️ 10,261 lines written by AI, 2 lines written by hand (99.98% AI-written)
+✍️ 17,934 lines written by AI, 2 lines written by hand (99.99% AI-written)
 
-🔤 4,251,397 Input Tokens, 427,387 Output Tokens
+🔤 3,790,076 Input Tokens, 433,507 Output Tokens
 
-💵 $19.16 Estimated AI Cost This Week
+💵 $17.87 Estimated AI Cost This Week
 
-🧠 93 AI Sessions, 257 AI Prompts
+🧠 96 AI Sessions, 244 AI Prompts
 
-Deepseek                 10,388 lines        █████████████████████████   98.91 % 
-Nemotron                 91 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-Mimo                     24 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Deepseek                 18,146 lines        █████████████████████████   99.87 % 
+Mimo                     24 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📝 Concise Prompter — average 496 characters per prompt
+🤖 AI-Driven — 99.99% of written lines came from AI
+📄 Detailed Prompter — average 561 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               6 repos             ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Solidity                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+TypeScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Solidity                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
