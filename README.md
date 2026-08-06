@@ -135,24 +135,24 @@ Sunday                   215 commits         ██░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 27 mins (100.0%)
+⏱ AI Coding Time: 6 hrs 41 mins (100.0%)
 
-✍️ 30,792 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 23,758 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,186,313 Input Tokens, 452,127 Output Tokens
+🔤 1,331,816 Input Tokens, 340,420 Output Tokens
 
-💵 $13.34 Estimated AI Cost This Week
+💵 $9.10 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 134 AI Prompts
+🧠 26 AI Sessions, 92 AI Prompts
 
-Deepseek                 30,959 lines        █████████████████████████   99.97 % 
-Mimo                     8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Deepseek                 23,842 lines        █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 359 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 363 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
