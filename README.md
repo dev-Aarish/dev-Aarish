@@ -105,56 +105,7 @@ These are the some amazing open source projects I have contributed to in 2026 un
 ## Some more stats(I love Stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2040%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-128%20hrs%2028%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.65%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                270 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-🌆 Daytime                1408 commits        ███████████░░░░░░░░░░░░░░   45.48 % 
-🌃 Evening                993 commits         ████████░░░░░░░░░░░░░░░░░   32.07 % 
-🌙 Night                  425 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   427 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Tuesday                  707 commits         ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-Wednesday                302 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Thursday                 644 commits         █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
-Friday                   381 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Saturday                 420 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Sunday                   215 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 6 hrs 41 mins (100.0%)
-
-✍️ 23,758 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 1,331,816 Input Tokens, 340,420 Output Tokens
-
-💵 $9.10 Estimated AI Cost This Week
-
-🧠 26 AI Sessions, 92 AI Prompts
-
-Deepseek                 23,842 lines        █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 363 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
 
 **I Mostly Code in TypeScript** 
 
