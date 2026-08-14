@@ -105,56 +105,56 @@ These are the some amazing open source projects I have contributed to in 2026 un
 ## Some more stats(I love Stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-145%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.09%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                298 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-🌆 Daytime                1487 commits        ███████████░░░░░░░░░░░░░░   45.09 % 
-🌃 Evening                1042 commits        ████████░░░░░░░░░░░░░░░░░   31.59 % 
-🌙 Night                  471 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+🌞 Morning                298 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+🌆 Daytime                1492 commits        ███████████░░░░░░░░░░░░░░   45.08 % 
+🌃 Evening                1049 commits        ████████░░░░░░░░░░░░░░░░░   31.69 % 
+🌙 Night                  471 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   436 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Tuesday                  734 commits         ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-Wednesday                311 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Thursday                 657 commits         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
-Friday                   387 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Saturday                 481 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Sunday                   292 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Monday                   436 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Tuesday                  734 commits         ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+Wednesday                311 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Thursday                 669 commits         █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Friday                   387 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Saturday                 481 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Sunday                   292 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 36 mins (92.0%)
+⏱ AI Coding Time: 18 hrs 59 mins (92.9%)
 
-✍️ 4,858 lines written by AI, 570 lines written by hand (89.5% AI-written)
+✍️ 6,934 lines written by AI, 570 lines written by hand (92.4% AI-written)
 
-🔤 5,047,039 Input Tokens, 571,663 Output Tokens
+🔤 6,992,305 Input Tokens, 808,411 Output Tokens
 
-💵 $153.67 Estimated AI Cost This Week
+💵 $283.19 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 182 AI Prompts
+🧠 61 AI Sessions, 212 AI Prompts
 
-Deepseek                 3,755 lines         ███████████████████░░░░░░   74.39 % 
-Mimo                     1,293 lines         ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
+Deepseek                 6,065 lines         █████████████████████░░░░   82.43 % 
+Mimo                     1,293 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.5% of written lines came from AI
-📄 Detailed Prompter — average 830 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 10.39% of changed lines were hand-edited
+🤖 AI-Driven — 92.4% of written lines came from AI
+📄 Detailed Prompter — average 748 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 7.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
