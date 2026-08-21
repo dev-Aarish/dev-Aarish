@@ -105,9 +105,9 @@ These are the some amazing open source projects I have contributed to in 2026 un
 ## Some more stats(I love Stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-153%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-153%20hrs%2053%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.41%20million%20lines%20of%20code-blue?style=flat)
 
@@ -135,27 +135,27 @@ Sunday                   309 commits         ██░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 47 mins (98.25%)
+⏱ AI Coding Time: 6 hrs 24 mins (97.74%)
 
-✍️ 3,817 lines written by AI, 29 lines written by hand (99.25% AI-written)
+✍️ 1,741 lines written by AI, 29 lines written by hand (98.36% AI-written)
 
-🔤 4,991,115 Input Tokens, 713,691 Output Tokens
+🔤 3,045,065 Input Tokens, 476,331 Output Tokens
 
-💵 $305.14 Estimated AI Cost This Week
+💵 $175.34 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 130 AI Prompts
+🧠 26 AI Sessions, 100 AI Prompts
 
-Deepseek                 4,069 lines         █████████████████████████   99.85 % 
-Nemotron                 3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Github-Copilot           2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-Mimo                     1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Deepseek                 1,759 lines         █████████████████████████   99.66 % 
+Nemotron                 3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Github-Copilot           2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Mimo                     1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.25% of written lines came from AI
-📄 Detailed Prompter — average 785 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.33% of changed lines were hand-edited
+🤖 AI-Driven — 98.36% of written lines came from AI
+📄 Detailed Prompter — average 946 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 2.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
