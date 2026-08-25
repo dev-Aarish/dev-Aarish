@@ -105,9 +105,9 @@ These are the some amazing open source projects I have contributed to in 2026 un
 ## Some more stats(I love Stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-157%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-158%20hrs%2016%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.42%20million%20lines%20of%20code-blue?style=flat)
 
@@ -135,24 +135,24 @@ Sunday                   326 commits         ██░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 22 mins (96.6%)
+⏱ AI Coding Time: 6 hrs 13 mins (96.51%)
 
-✍️ 2,774 lines written by AI, 2 lines written by hand (99.93% AI-written)
+✍️ 2,765 lines written by AI, 2 lines written by hand (99.93% AI-written)
 
-🔤 6,776,168 Input Tokens, 286,575 Output Tokens
+🔤 6,604,278 Input Tokens, 264,627 Output Tokens
 
-💵 $161.56 Estimated AI Cost This Week
+💵 $152.83 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 107 AI Prompts
+🧠 27 AI Sessions, 103 AI Prompts
 
-Mimo                     2,123 lines         ███████████████████░░░░░░   75.63 % 
-Deepseek                 567 lines           █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-Nemotron                 64 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-Opencode-Cli             53 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Mimo                     2,123 lines         ███████████████████░░░░░░   75.93 % 
+Deepseek                 556 lines           █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+Nemotron                 64 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Opencode-Cli             53 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.93% of written lines came from AI
-📝 Concise Prompter — average 423 characters per prompt
+📝 Concise Prompter — average 317 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.21% of changed lines were hand-edited
 ```
