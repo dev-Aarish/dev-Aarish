@@ -109,26 +109,26 @@ These are the some amazing open source projects I have contributed to in 2026 un
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-158%20hrs%2016%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.42%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.67%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                305 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-🌆 Daytime                1611 commits        ███████████░░░░░░░░░░░░░░   45.41 % 
-🌃 Evening                1121 commits        ████████░░░░░░░░░░░░░░░░░   31.60 % 
-🌙 Night                  511 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+🌞 Morning                154 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+🌆 Daytime                1493 commits        ████████████░░░░░░░░░░░░░   49.19 % 
+🌃 Evening                889 commits         ███████░░░░░░░░░░░░░░░░░░   29.29 % 
+🌙 Night                  499 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   452 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Tuesday                  781 commits         ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
-Wednesday                327 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Thursday                 708 commits         █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-Friday                   419 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Saturday                 535 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Sunday                   326 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Monday                   404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Tuesday                  714 commits         ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Wednesday                238 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Thursday                 646 commits         █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+Friday                   314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Saturday                 463 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Sunday                   256 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 ```
 
 
@@ -159,11 +159,11 @@ Opencode-Cli             53 lines            █░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Solidity                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+TypeScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+JavaScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Solidity                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
