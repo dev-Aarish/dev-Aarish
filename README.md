@@ -115,19 +115,19 @@ These are the some amazing open source projects I have contributed to in 2026 un
 
 ```text
 🌞 Morning                154 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-🌆 Daytime                1493 commits        ████████████░░░░░░░░░░░░░   49.19 % 
-🌃 Evening                889 commits         ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-🌙 Night                  499 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+🌆 Daytime                1493 commits        ████████████░░░░░░░░░░░░░   49.16 % 
+🌃 Evening                891 commits         ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+🌙 Night                  499 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Tuesday                  714 commits         ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Monday                   404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Tuesday                  714 commits         ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
 Wednesday                238 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Thursday                 646 commits         █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-Friday                   314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Saturday                 463 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Thursday                 646 commits         █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+Friday                   316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Saturday                 463 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
 Sunday                   256 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 ```
 
@@ -135,25 +135,25 @@ Sunday                   256 commits         ██░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 23 mins (95.41%)
+⏱ AI Coding Time: 5 hrs 30 mins (95.1%)
 
-✍️ 2,220 lines written by AI, 2 lines written by hand (99.91% AI-written)
+✍️ 4,296 lines written by AI, 2 lines written by hand (99.95% AI-written)
 
-🔤 1,044,108 Input Tokens, 155,250 Output Tokens
+🔤 1,517,915 Input Tokens, 217,464 Output Tokens
 
-💵 $82.61 Estimated AI Cost This Week
+💵 $109.41 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 81 AI Prompts
+🧠 28 AI Sessions, 90 AI Prompts
 
-Mimo                     2,123 lines         ████████████████████████░   94.78 % 
-Nemotron                 64 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Opencode-Cli             53 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Mimo                     4,210 lines         ████████████████████████░   97.30 % 
+Nemotron                 64 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Opencode-Cli             53 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📝 Concise Prompter — average 356 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.27% of changed lines were hand-edited
+🤖 AI-Driven — 99.95% of written lines came from AI
+📄 Detailed Prompter — average 554 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
