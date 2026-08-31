@@ -105,53 +105,53 @@ These are the some amazing open source projects I have contributed to in 2026 un
 ## Some more stats(I love Stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-159%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-162%20hrs%207%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.68%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.89%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                154 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-🌆 Daytime                1496 commits        ████████████░░░░░░░░░░░░░   49.03 % 
-🌃 Evening                902 commits         ███████░░░░░░░░░░░░░░░░░░   29.56 % 
-🌙 Night                  499 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+🌞 Morning                165 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+🌆 Daytime                1560 commits        ████████████░░░░░░░░░░░░░   49.18 % 
+🌃 Evening                932 commits         ███████░░░░░░░░░░░░░░░░░░   29.38 % 
+🌙 Night                  515 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Tuesday                  714 commits         ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-Wednesday                238 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Thursday                 646 commits         █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-Friday                   316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Saturday                 477 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Sunday                   256 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Monday                   414 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Tuesday                  744 commits         ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+Wednesday                248 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Thursday                 672 commits         █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+Friday                   328 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Saturday                 491 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Sunday                   275 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 4 mins (96.94%)
+⏱ AI Coding Time: 7 hrs 6 mins (97.5%)
 
-✍️ 2,589 lines written by AI, 1 lines written by hand (99.96% AI-written)
+✍️ 4,745 lines written by AI, 1 lines written by hand (99.98% AI-written)
 
-🔤 1,581,752 Input Tokens, 217,047 Output Tokens
+🔤 2,208,826 Input Tokens, 346,019 Output Tokens
 
-💵 $116.45 Estimated AI Cost This Week
+💵 $175.69 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 92 AI Prompts
+🧠 46 AI Sessions, 134 AI Prompts
 
-Mimo                     2,609 lines         █████████████████████████   98.01 % 
-Opencode-Cli             53 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Mimo                     4,888 lines         █████████████████████████   99.82 % 
+Opencode-Cli             9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📝 Concise Prompter — average 464 characters per prompt
+🤖 AI-Driven — 99.98% of written lines came from AI
+📝 Concise Prompter — average 458 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.08% of changed lines were hand-edited
 ```
