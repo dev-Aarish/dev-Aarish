@@ -105,53 +105,54 @@ These are the some amazing open source projects I have contributed to in 2026 un
 ## Some more stats(I love Stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-162%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-165%20hrs%2023%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.89%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.99%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                165 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-🌆 Daytime                1560 commits        ████████████░░░░░░░░░░░░░   49.18 % 
-🌃 Evening                932 commits         ███████░░░░░░░░░░░░░░░░░░   29.38 % 
-🌙 Night                  515 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+🌞 Morning                166 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+🌆 Daytime                1593 commits        ████████████░░░░░░░░░░░░░   49.30 % 
+🌃 Evening                949 commits         ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+🌙 Night                  523 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   414 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Tuesday                  744 commits         ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-Wednesday                248 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Thursday                 672 commits         █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-Friday                   328 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Saturday                 491 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Sunday                   275 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Monday                   426 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Tuesday                  759 commits         ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+Wednesday                253 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Thursday                 685 commits         █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+Friday                   334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Saturday                 498 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Sunday                   276 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 6 mins (97.5%)
+⏱ AI Coding Time: 10 hrs 45 mins (97.59%)
 
-✍️ 4,745 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 7,229 lines written by AI, 2 lines written by hand (99.97% AI-written)
 
-🔤 2,208,826 Input Tokens, 346,019 Output Tokens
+🔤 3,324,749 Input Tokens, 561,098 Output Tokens
 
-💵 $175.69 Estimated AI Cost This Week
+💵 $291.51 Estimated AI Cost This Week
 
-🧠 46 AI Sessions, 134 AI Prompts
+🧠 58 AI Sessions, 190 AI Prompts
 
-Mimo                     4,888 lines         █████████████████████████   99.82 % 
-Opencode-Cli             9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Mimo                     7,419 lines         █████████████████████████   98.74 % 
+GPT                      86 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Opencode-Cli             9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📝 Concise Prompter — average 458 characters per prompt
+🤖 AI-Driven — 99.97% of written lines came from AI
+📄 Detailed Prompter — average 778 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.08% of changed lines were hand-edited
 ```
