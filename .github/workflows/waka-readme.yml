@@ -24,6 +24,4 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_UPDATED_DATE: "False"
           SHOW_LANGUAGE: "False"
-          SHOW_AI_STATS: "False"
-          SHOW_AI: "False"
-          SHOW_AI_CODE: "False"
+          SHOW_AI_CODING: "False"
