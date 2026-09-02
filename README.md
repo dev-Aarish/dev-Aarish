@@ -105,67 +105,41 @@ These are the some amazing open source projects I have contributed to in 2026 un
 ## Some more stats(I love Stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-169%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-170%20hrs%2031%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.99%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.00%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                166 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-🌆 Daytime                1593 commits        ████████████░░░░░░░░░░░░░   49.27 % 
-🌃 Evening                951 commits         ███████░░░░░░░░░░░░░░░░░░   29.42 % 
-🌙 Night                  523 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+🌆 Daytime                1595 commits        ████████████░░░░░░░░░░░░░   49.26 % 
+🌃 Evening                954 commits         ███████░░░░░░░░░░░░░░░░░░   29.46 % 
+🌙 Night                  523 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   426 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Tuesday                  761 commits         ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-Wednesday                253 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-Thursday                 685 commits         █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-Friday                   334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Saturday                 498 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Sunday                   276 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Monday                   426 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Tuesday                  761 commits         ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
+Wednesday                258 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Thursday                 685 commits         █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+Friday                   334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Saturday                 498 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Sunday                   276 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
 ```
 
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 12 hrs 15 mins (97.13%)
-
-✍️ 7,240 lines written by AI, 3 lines written by hand (99.96% AI-written)
-
-🔤 3,847,304 Input Tokens, 607,285 Output Tokens
-
-💵 $311.22 Estimated AI Cost This Week
-
-🧠 66 AI Sessions, 210 AI Prompts
-
-Mimo                     7,438 lines         █████████████████████████   98.71 % 
-GPT                      86 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Opencode-Cli             9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Spark                    2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📄 Detailed Prompter — average 727 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.12% of changed lines were hand-edited
-```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               10 repos            █████████░░░░░░░░░░░░░░░░   34.48 % 
+TypeScript               9 repos             ████████░░░░░░░░░░░░░░░░░   31.03 % 
 JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
 HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
 C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Solidity                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
