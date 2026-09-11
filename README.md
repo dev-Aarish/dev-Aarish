@@ -17,7 +17,7 @@
 //Hello
 var Aarish={
     role:["student","junior dev"],
-    hobby:["reading", "painting", "watching movies"],
+    hobby:["reading", "watching movies", "painting"],
     skill level:"noob"
 }
         </code></pre>
