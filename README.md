@@ -87,9 +87,14 @@ These are the some amazing open source projects I have contributed to in 2026 un
     <img valign="top" height="140" src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=Eshajha19&repo=Algo-Infinity-Verse&show_icons=true&line_height=27&theme=dark" alt="Algo-Infinity-Verse" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/anchalive/collegems">
-    <img valign="top" height="125" src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=imanchalsingh&repo=collegems&show_icons=true&line_height=27&theme=dark" alt="collegems" />
-  </a>
+  <a href="https://github.com/anchals22/collegems">
+  <img
+    valign="top"
+    height="125"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=anchals22&repo=collegems&show_icons=true&line_height=27&theme=dark"
+    alt="collegems"
+  />
+</a>
 </p>
 
 <p align="center">
