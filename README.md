@@ -49,7 +49,7 @@ var Aarish={
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-Aarish&theme=dark&radius=10" alt="dev-Aarish's Activity Graph" />
 </p>-->
 
-<!--[![dev-Aarish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-Aarish&bg_color=202124&color=fcfcfa&line=c4e3ff&point=ff8070&area=true&hide_border=true)]([...]
+<!--[![dev-Aarish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-Aarish&bg_color=202124&color=fcfcfa&line=c4e3ff&point=ff8070&area=true&hide_border=true)]([...]-->
 
 ## Languages & Tools I've Used
 
@@ -73,7 +73,7 @@ var Aarish={
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Aarish&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333"
     alt="Top Languages"
   />
-</p>-->
+</p>
 
 <!--## My Badges
 [![An image of @devaarish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devaarish)](https://holopin.io/@devaarish)-->
@@ -153,13 +153,11 @@ C                        2 repos             ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/aritro-bag"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Aritro Bag's LinkedIn"/></a>
-  <a href="mailto:aritrobag362@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Aritro Bag's Email"/></a>
-</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aritro-bag"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/klutz_09"><img src="https://skillicons.dev/icons?i=discord" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:aritrobag362@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
