@@ -49,6 +49,10 @@ var Aarish={
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-Aarish&theme=dark&radius=10" alt="dev-Aarish's Activity Graph" />
 </p>-->
 <!-- BEGIN ACTIVITY-GRAPH -->
+<picture>
+  <source media="(max-width: 767px)" srcset="activity-graph-mobile.svg">
+  <img src="activity-graph.svg" alt="Activity Graph" width="100%">
+</picture>
 <!-- END ACTIVITY-GRAPH -->
 <!--[![dev-Aarish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-Aarish&bg_color=202124&color=fcfcfa&line=c4e3ff&point=ff8070&area=true&hide_border=true)]([...]-->
 
