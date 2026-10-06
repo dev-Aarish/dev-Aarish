@@ -48,12 +48,12 @@ var Aarish={
 <!--<p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-Aarish&theme=dark&radius=10" alt="dev-Aarish's Activity Graph" />
 </p>-->
-<!-- BEGIN ACTIVITY-GRAPH -->
-<picture>
-  <source media="(max-width: 767px)" srcset="activity-graph-mobile.svg">
-  <img src="activity-graph.svg" alt="Activity Graph" width="100%">
-</picture>
-<!-- END ACTIVITY-GRAPH -->
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/dev-Aarish/dev-Aarish/output/activity-graph.svg"
+    alt="dev-Aarish's Activity Graph"
+  />
+</p>
 <!--[![dev-Aarish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-Aarish&bg_color=202124&color=fcfcfa&line=c4e3ff&point=ff8070&area=true&hide_border=true)]([...]-->
 
 ## Languages & Tools I've Used
