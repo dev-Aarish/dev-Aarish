@@ -24,7 +24,7 @@ var Aarish={
       </div>  
     </td>
     <td align="right" width="50%">
-      <img height="200px"  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Q4a2F4bGNodjlrb3UxdHdhaTFwdWs1aWl3bG00cXJqZ3U0eGlyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/psll5Lfw1XxJWEfui9/giphy.gif" />
+      <img height="200px"  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Q4a2F4bGNodjlrb3UxdHdhaTFwdWs1aWl3bG00cXJqZ3U0eGlyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/psll5Lfw1XxJWEfui9/giphy.gif" alt="coding" />
     </td>
   </tr>
 </table>
@@ -49,7 +49,7 @@ var Aarish={
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-Aarish&theme=dark&radius=10" alt="dev-Aarish's Activity Graph" />
 </p>-->
 
-<!--[![dev-Aarish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-Aarish&bg_color=202124&color=fcfcfa&line=c4e3ff&point=ff8070&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+<!--[![dev-Aarish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-Aarish&bg_color=202124&color=fcfcfa&line=c4e3ff&point=ff8070&area=true&hide_border=true)]([...]
 
 ## Languages & Tools I've Used
 
@@ -103,7 +103,7 @@ These are the some amazing open source projects I have contributed to in 2026 un
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/daviddprtma/AgroDex">
-    <img valign="top" height="140" src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=daviddprtma&repo=Agrodex&show_icons=true&line_height=27&theme=dark" alt="Open-Source-Contribution-Atelier" />
+    <img valign="top" height="140" src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=daviddprtma&repo=Agrodex&show_icons=true&line_height=27&theme=dark" alt="AgroDex" />
   </a>
 </p>
 
@@ -132,7 +132,7 @@ Tuesday                  861 commits         █████░░░░░░�
 Wednesday                389 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
 Thursday                 810 commits         █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
 Friday                   599 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Saturday                 589 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Saturday                 589 commits         ████░░░░░���░░░░░░░░░░░░░░░   14.31 % 
 Sunday                   374 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
@@ -154,10 +154,12 @@ C                        2 repos             ██░░░░░░░░░�
 
 ## Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/aritro-bag"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Aritro Bag's LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="https://www.linkedin.com/in/aritro-bag"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Aritro Bag's LinkedIn"/></a>
   <a href="mailto:aritrobag362@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Aritro Bag's Email"/></a>
 </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
