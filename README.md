@@ -56,20 +56,17 @@ var Aarish={
 </p>
 <!--[![dev-Aarish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-Aarish&bg_color=202124&color=fcfcfa&line=c4e3ff&point=ff8070&area=true&hide_border=true)]([...]-->
 
-## Languages & Tools I've Used
+## Languages
 
-<p align="center">
-      <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=c,py,javascript,typescript,cpp,java,html,css,react,nodejs,express,supabase,mongodb,solidity" />
-      </a>
-</p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=c,python,javascript,typescript,cpp,java" /> </a> </p>
 
+## Web, Backend & Blockchain
 
-<p align="center">
-      <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=tailwind,figma,git,github,postman,vite,vscode,vercel,netlify" />
-      </a>
-</p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,supabase,mongodb,firebase,solidity" /> </a> </p>
+
+## Tools & Deployment
+
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,figma,vercel,netlify" /> </a> </p>
 
 
 <!--<p align="center">
