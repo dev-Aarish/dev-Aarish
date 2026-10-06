@@ -16,9 +16,9 @@
         <pre><code>
 //Hello
 var Aarish={
-    role:["student","junior dev"],
+    role:["student","dev","frontend enthusiast"],
     hobby:["reading", "watching movies", "painting"],
-    skill level:"noob"
+    interests:["open source","blockchain","cryptography"]
 }
         </code></pre>
       </div>  
@@ -85,7 +85,7 @@ var Aarish={
 
 ## My open source contributions
 
-These are the some amazing open source projects I have contributed to in 2026 under SSoC'26!
+I contributed to several open-source projects through SSoC'26, working on features, fixes, and improvements across different repositories.
 
 <p align="center">
   <a href="https://github.com/Eshajha19/Algo-Infinity-Verse">
