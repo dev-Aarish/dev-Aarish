@@ -121,21 +121,21 @@ I contributed to several open-source projects through SSoC'26, working on featur
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                390 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-🌆 Daytime                2143 commits        ███████████░░░░░░░░░░░░░░   45.80 % 
-🌃 Evening                1507 commits        ████████░░░░░░░░░░░░░░░░░   32.21 % 
-🌙 Night                  639 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+🌞 Morning                390 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+🌆 Daytime                2144 commits        ███████████░░░░░░░░░░░░░░   45.81 % 
+🌃 Evening                1507 commits        ████████░░░░░░░░░░░░░░░░░   32.20 % 
+🌙 Night                  639 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   557 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Tuesday                  1011 commits        █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+Tuesday                  1011 commits        █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
 Wednesday                444 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-Thursday                 939 commits         █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-Friday                   654 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Saturday                 654 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Sunday                   420 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Thursday                 939 commits         █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Friday                   654 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Saturday                 655 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Sunday                   420 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
 ```
 
 
